@@ -1,5 +1,5 @@
 # 💫 About Me:
-This is a Fill In for about me
+My name is Aryaman Ramchandran. I am an aspiring software engineer with an emphasis on AI development. I hope to take my experiences and explore how AI can bridge the gap between creative users and various interactive media, such as sound design, music production, and game development. 
 
 
 ## 🌐 Socials:
