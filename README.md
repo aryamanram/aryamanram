@@ -1,3 +1,5 @@
+![NameFontChangeGif](https://github.com/user-attachments/assets/4680537f-a629-44ee-93c3-a1bae5834862)
+
 # 💫 About Me:
 My name is Aryaman Ramchandran. I am an aspiring software engineer with an emphasis on AI development. I hope to take my experiences and explore how AI can bridge the gap between creative users and various interactive media, such as sound design, music production, and game development. 
 
