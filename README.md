@@ -1,5 +1,5 @@
-![GitHub-Mark-Light]![AryamanRamchandranBlack](https://github.com/user-attachments/assets/72c0e5ef-ee67-4847-9087-b112be521949#gh-light-mode-only)
-![GitHub-Mark-Dark ]![AryamanRamchandranWhite](https://github.com/user-attachments/assets/c0960457-a4f5-49eb-b440-dcdce9703d8d#gh-dark-mode-only)
+![AryamanRamchandranBlack](https://github.com/user-attachments/assets/72c0e5ef-ee67-4847-9087-b112be521949#gh-light-mode-only)
+![AryamanRamchandranWhite](https://github.com/user-attachments/assets/c0960457-a4f5-49eb-b440-dcdce9703d8d#gh-dark-mode-only)
 
 ![GitHub-Mark-Light](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only)
 ![GitHub-Mark-Dark ](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only)
