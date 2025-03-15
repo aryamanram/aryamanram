@@ -1,5 +1,5 @@
-![GitHub-Mark-Light](![AryamanRamchandranBlack](https://github.com/user-attachments/assets/72c0e5ef-ee67-4847-9087-b112be521949))
-![GitHub-Mark-Dark ](![AryamanRamchandranWhite](https://github.com/user-attachments/assets/c0960457-a4f5-49eb-b440-dcdce9703d8d))
+![AryamanRamchandranBlack](https://github.com/user-attachments/assets/72c0e5ef-ee67-4847-9087-b112be521949)
+![AryamanRamchandranWhite](https://github.com/user-attachments/assets/c0960457-a4f5-49eb-b440-dcdce9703d8d)
 
 
 
