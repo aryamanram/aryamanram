@@ -4,9 +4,6 @@
 # About Me:
 My name is Aryaman Ramchandran. I am an aspiring software engineer with an emphasis on AI development. I hope to take my experiences and explore how AI can bridge the gap between creative users and various interactive media, such as sound design, music production, and game development. 
 
-# hello
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/status4764) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryaman-ramchandran/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/StatusSin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StatusSin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryamanramchandran@gmail.com) 
 
