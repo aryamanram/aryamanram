@@ -2,12 +2,24 @@
 ![AryamanRamchandranWhite](https://github.com/user-attachments/assets/c0960457-a4f5-49eb-b440-dcdce9703d8d#gh-dark-mode-only)
 
 <p align="center">
-  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="YouTube" src="https://i.imgur.com/qiXu7b2.png" style="margin: 0 10px;"/></a>
-  <a href="https://twitter.com/NezukoSocial"><img width="32px" alt="Twitter" src="https://i.imgur.com/OXZM1L6.png" style="margin: 0 10px;"/></a>
-  <a href="https://discord.gg/nezuko"><img width="32px" alt="Discord" src="https://i.imgur.com/OViZO8J.png" style="margin: 0 10px;"/></a>
-  <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" src="https://i.imgur.com/mVm29vK.png" style="margin: 0 10px;"/></a>
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" src="https://i.imgur.com/PpLeD3K.png" style="margin: 0 10px;"/></a>
-  <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" src="https://i.imgur.com/0uVwkoZ.png" style="margin: 0 10px;"/></a>
+  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA">
+    <img width="32px" alt="YouTube" src="https://i.imgur.com/qiXu7b2.png"/>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/NezukoSocial">
+    <img width="32px" alt="Twitter" src="https://i.imgur.com/OXZM1L6.png"/>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/nezuko">
+    <img width="32px" alt="Discord" src="https://i.imgur.com/OViZO8J.png"/>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/giingu">
+    <img width="32px" alt="Dev.to" src="https://i.imgur.com/mVm29vK.png"/>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://ko-fi.com/nezukobot">
+    <img width="32px" alt="Ko-fi" src="https://i.imgur.com/PpLeD3K.png"/>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.patreon.com/nezukobot">
+    <img width="32px" alt="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/>
+  </a>
 </p>
 
 # About Me:
