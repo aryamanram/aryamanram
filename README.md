@@ -1,8 +1,14 @@
 ![AryamanRamchandranBlack](https://github.com/user-attachments/assets/72c0e5ef-ee67-4847-9087-b112be521949#gh-light-mode-only)
 ![AryamanRamchandranWhite](https://github.com/user-attachments/assets/c0960457-a4f5-49eb-b440-dcdce9703d8d#gh-dark-mode-only)
 
-| [![YouTube](https://i.imgur.com/qiXu7b2.png)](https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA) | [![Twitter](https://i.imgur.com/OXZM1L6.png)](https://twitter.com/NezukoSocial) | [![Discord](https://i.imgur.com/OViZO8J.png)](https://discord.gg/nezuko) | [![Dev.to](https://i.imgur.com/mVm29vK.png)](https://dev.to/giingu) | [![Ko-fi](https://i.imgur.com/PpLeD3K.png)](https://ko-fi.com/nezukobot) | [![Patreon](https://i.imgur.com/0uVwkoZ.png)](https://www.patreon.com/nezukobot) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+<p align="center">
+  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="YouTube" src="https://i.imgur.com/qiXu7b2.png" style="margin: 0 10px;"/></a>
+  <a href="https://twitter.com/NezukoSocial"><img width="32px" alt="Twitter" src="https://i.imgur.com/OXZM1L6.png" style="margin: 0 10px;"/></a>
+  <a href="https://discord.gg/nezuko"><img width="32px" alt="Discord" src="https://i.imgur.com/OViZO8J.png" style="margin: 0 10px;"/></a>
+  <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" src="https://i.imgur.com/mVm29vK.png" style="margin: 0 10px;"/></a>
+  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" src="https://i.imgur.com/PpLeD3K.png" style="margin: 0 10px;"/></a>
+  <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" src="https://i.imgur.com/0uVwkoZ.png" style="margin: 0 10px;"/></a>
+</p>
 
 # About Me:
 My name is Aryaman Ramchandran. I am an aspiring software engineer with an emphasis on AI development. I hope to take my experiences and explore how AI can bridge the gap between creative users and various interactive media, such as sound design, music production, and game development. 
