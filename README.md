@@ -2,7 +2,10 @@
 ![AryamanRamchandranWhite](SOURCES/GIF/AryamanRamchandranFontChangeGifWhite.gif#gh-dark-mode-only)
 
 <p align="center">
-  <a href="https://www.youtube.com/@StatusSin/videos"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@StatusSin/videos">
+    <img width="32px" alt="Youtube" title="Youtube" src="SOURCES/MEDIA_ICONS/youtube_black_icon.png#gh-light-mode-only"/>
+    <img width="32px" alt="Youtube" title="Youtube" src="SOURCES/MEDIA_ICONS/youtube_white_icon.png#gh-dark-mode-only"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
