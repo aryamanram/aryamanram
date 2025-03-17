@@ -2,18 +2,18 @@
 ![AryamanRamchandranWhite](SOURCES/GIF/AryamanRamchandranFontChangeGifWhite.gif#gh-dark-mode-only)
 
 <p align="center">
-  <a href="https://www.youtube.com/@StatusSin/videos">
-    <picture>
-      <source srcset="SOURCES/MEDIA_ICONS/youtube_black_icon.png" media="(prefers-color-scheme: light)">
-      <source srcset="SOURCES/MEDIA_ICONS/youtube_white_icon.png" media="(prefers-color-scheme: dark)">
-      <img width="32px" alt="Youtube" title="Youtube" src="SOURCES/MEDIA_ICONS/youtube_black_icon.png">
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="">
     <picture>
       <source srcset="SOURCES/MEDIA_ICONS/browser_chrome_icon.png" media="(prefers-color-scheme: light)">
       <source srcset="SOURCES/MEDIA_ICONS/browser_chrome_white_icon.png" media="(prefers-color-scheme: dark)">
+      <img width="32px" alt="Youtube" title="Youtube" src="SOURCES/MEDIA_ICONS/youtube_black_icon.png">
+    </picture>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/@StatusSin/videos">
+    <picture>
+      <source srcset="SOURCES/MEDIA_ICONS/youtube_black_icon.png" media="(prefers-color-scheme: light)">
+      <source srcset="SOURCES/MEDIA_ICONS/youtube_white_icon.png" media="(prefers-color-scheme: dark)">
       <img width="32px" alt="Youtube" title="Youtube" src="SOURCES/MEDIA_ICONS/youtube_black_icon.png">
     </picture>
   </a>
