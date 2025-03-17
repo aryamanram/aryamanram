@@ -28,14 +28,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<div style="display: flex; align-items: center;">
-    <div style="font-size: 3rem; writing-mode: vertical-rl; text-orientation: upright; font-weight: bold; padding-right: 20px;">
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="flex: 1; text-align: center; font-size: 3rem; font-weight: bold; padding: 20px;">
       About Me
     </div>
-    <div style="max-width: 600px;">
+    <div style="flex: 2; max-width: 600px; padding: 20px;">
       My name is Aryaman Ramchandran. I am an aspiring software engineer with an emphasis on AI development. I hope to take my experiences and explore how AI can bridge the gap between creative users and various interactive media, such as sound design, music production, and game development.
     </div>
-  </div>
+</div>
 
 # About Me:
 My name is Aryaman Ramchandran. I am an aspiring software engineer with an emphasis on AI development. I hope to take my experiences and explore how AI can bridge the gap between creative users and various interactive media, such as sound design, music production, and game development. 
