@@ -1,5 +1,5 @@
-![AryamanRamchandranBlack](https://github.com/user-attachments/assets/72c0e5ef-ee67-4847-9087-b112be521949#gh-light-mode-only)
-![AryamanRamchandranWhite](https://github.com/user-attachments/assets/c0960457-a4f5-49eb-b440-dcdce9703d8d#gh-dark-mode-only)
+![AryamanRamchandranBlack](SOURCES/GIF/AryamanRamchandranFontChangeGifBlack.gif#gh-light-mode-only)
+![AryamanRamchandranWhite](SOURCES/GIF/AryamanRamchandranFontChangeGifWhite.gif#gh-dark-mode-only)
 
 <p align="center">
   <a href="https://www.youtube.com/@StatusSin/videos"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
