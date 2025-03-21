@@ -29,14 +29,16 @@
 </p>
 
 # About Me:
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1;">
-    I am a software engineer... but am I more than that? My passions lie in human-computer interaction. I want to be a bridge between creative expression and technology. I want to build tools for musicians to more effectively create without worrying about mechanical limitations. I want to create AI agents that challenge players in games by adapting to them in real time. I want to create worlds that move people with their stories and beauty. I want to make interesting graphics and visuals that stimulate curiosity. I want to express myself and my infinite interests.
-  </div>
-  <div style="flex: 1;">
-    This is the second paragraph of the About Me section, to be fully added.
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      I am a software engineer... but am I more than that? My passions lie in human-computer interaction. I want to be a bridge between creative expression and technology. I want to build tools for musicians to more effectively create without worrying about mechanical limitations. I want to create AI agents that challenge players in games by adapting to them in real time. I want to create worlds that move people with their stories and beauty. I want to make interesting graphics and visuals that stimulate curiosity. I want to express myself and my infinite interests.
+    </td>
+    <td>
+      This is the second paragraph of the About Me section, to be fully added.
+    </td>
+  </tr>
+</table>
 
 <!-- I am a software engineer... but am I more than that? My passions lie in human-computer interaction. I want to be a bridge between creative expression and technology. I want to build tools for musicians to more effectively create without worrying about mechanical limitations. I want to create AI agents that challenge players in games by adapting to them in real time. I want to create worlds that move people with their stories and beauty. I want to make interesting graphics and visuals that stimulate curiosity. I want to express myself and my infinite interests. 
 
