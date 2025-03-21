@@ -29,20 +29,8 @@
 </p>
 
 # About Me:
-<table>
-  <tr>
-    <td>
-      I am a software engineer... but am I more than that? My passions lie in human-computer interaction. I want to be a bridge between creative expression and technology. I want to build tools for musicians to more effectively create without worrying about mechanical limitations. I want to create AI agents that challenge players in games by adapting to them in real time. I want to create worlds that move people with their stories and beauty. I want to make interesting graphics and visuals that stimulate curiosity. I want to express myself and my infinite interests.
-    </td>
-    <td>
-      This is the second paragraph of the About Me section, to be fully added.
-    </td>
-  </tr>
-</table>
 
-<!-- I am a software engineer... but am I more than that? My passions lie in human-computer interaction. I want to be a bridge between creative expression and technology. I want to build tools for musicians to more effectively create without worrying about mechanical limitations. I want to create AI agents that challenge players in games by adapting to them in real time. I want to create worlds that move people with their stories and beauty. I want to make interesting graphics and visuals that stimulate curiosity. I want to express myself and my infinite interests. 
-
-This is the second paragraph of the About me section, to be fully added. -->
+I am a software engineer... but am I more than that? My passions lie in human-computer interaction. I want to be a bridge between creative expression and technology. I want to build tools for musicians to more effectively create without worrying about mechanical limitations. I want to create AI agents that challenge players in games by adapting to them in real time. I want to create worlds that move people with their stories and beauty. I want to make interesting graphics and visuals that stimulate curiosity. I want to express myself and my infinite interests.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/status4764) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryaman-ramchandran/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/StatusSin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StatusSin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryamanramchandran@gmail.com) 
