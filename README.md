@@ -47,5 +47,3 @@ I am a software engineer... but am I more than that? My passions lie in human-co
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aryamanram&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
